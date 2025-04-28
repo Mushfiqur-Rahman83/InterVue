@@ -1,4 +1,4 @@
-# InterVue# 
+# InterVue
 
 A web application built with Django (backend) and React with TypeScript (frontend), containerized using Docker.
 
