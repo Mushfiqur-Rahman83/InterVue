@@ -16,4 +16,20 @@ Install Docker and Docker Compose from [here](https://docs.docker.com/get-docker
 ```bash
 git clone git@github.com:Mushfiqur-Rahman83/InterVue.git
 cd InterVue
+```
 
+### 2. Build the Docker Containers
+
+```bash
+docker-compose build
+```
+
+### 3. Start the Containers
+```bash
+docker-compose up
+```
+
+### 4. Stop the Containers
+```bash
+docker-compose down
+```
